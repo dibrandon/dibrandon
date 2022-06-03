@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dibrandon
 - 👀 I’m interested in react web apps
-- 🌱 I’m currently learning next.js
+- 🌱 I’m currently learning js
 - 📫 How to reach me diazbrandonalejandro@gmail.com
 
 <!---
